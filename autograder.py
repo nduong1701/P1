@@ -117,7 +117,7 @@ def setModuleName(module, filename):
         #print i, type(o)
 
 
-#from cStringIO import StringIO
+#from cStringIO import StringIO0
 
 def loadModuleString(moduleSource):
     # Below broken, imp doesn't believe its being passed a file:
